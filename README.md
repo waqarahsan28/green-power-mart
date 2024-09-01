@@ -38,7 +38,7 @@ To get started with the app locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/waqarahsan28/Green-power-mart-frontend-
+   git clone https://github.com/waqarahsan28/green-power-mart/
    ```
 
 2. Navigate to the project directory:
